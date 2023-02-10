@@ -2,6 +2,9 @@
 Practical guides to programming in Clojure and tools that support an effective Clojure REPL workflow (Repl Driven Development)
 
 [Practicalli website](https://practical.li) includes books on learning Clojure programming and detailed editor guides to help establish an effective workflow.
+- [Practicalli Clojure](https://practical.li/clojure) | [Practicalli Clojure Web Services](https://practical.li/clojure-web-services) | [Practicalli ClojureScript](https://practical.li/clojurescript)
+- [Practicalli Spacemacs](https://practical.li/spacemacs) | [Practicalli Doom Emacs](https://practical.li/doom-emacs) | [Practicalli Neovim](https://practical.li/neovim) | [Practicalli VSpaceCode](https://practical.li/vspacecode)
+- [Practicalli Engineering Playbook](https://practical.li/engineering-playbook)
 
 [Practicalli YouTube channel](https://youtube.com/practicalli) has over 100 hours of live coding in Clojure to demonstrate how to think in functional programming and apply Clojure to sovling challenges.
 
