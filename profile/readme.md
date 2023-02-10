@@ -5,7 +5,7 @@ Practical guides to programming in Clojure and tools that support an effective C
 
 [Practicalli YouTube channel](https://youtube.com/practicalli) has over 100 hours of live coding in Clojure to demonstrate how to think in functional programming and apply Clojure to sovling challenges.
 
-![Clojure repl driven development using Clojure aware editor](https://raw.githubusercontent.com/practicalli/graphic-design/live/clojure/clojure-repl-driven-development-lifecycle-concept.png)
+![Clojure repl driven development using Clojure aware editor](https://raw.githubusercontent.com/practicalli/graphic-design/live/clojure/clojure-repl-workflow-concept.png)
 
 ## Sponsor Practicalli
 
