@@ -2,9 +2,10 @@
 
 Practical guides to programming in Clojure and tools that support an effective Clojure REPL workflow (Repl Driven Development).
 
-[Practicalli Engineering Playbook](https://practical.li/engineering-playbook/) contains specific guides to a wider range of tools and practices within Engineering and Technical Management.
+[Practicalli Engineering Playbook](https://practical.li/engineering-playbook/) contains guides to a wider range of tools and practices within Engineering and Technical Management.
 
-[Practicalli website](https://practical.li) includes books on learning Clojure programming and detailed editor guides to help establish an effective workflow.
+[Practicalli website](https://practical.li) provides a range of books to learn Clojure programming and detailed editor guides to support an effective workflow.
+
 - [Practicalli Clojure](https://practical.li/clojure) | [Practicalli Clojure Web Services](https://practical.li/clojure-web-services) | [Practicalli ClojureScript](https://practical.li/clojurescript)
 - [Practicalli Neovim](https://practical.li/neovim) | [Practicalli Spacemacs](https://practical.li/spacemacs)  | [Practicalli VSpaceCode](https://practical.li/vspacecode)
 - [Practicalli Engineering Playbook](https://practical.li/engineering-playbook)
