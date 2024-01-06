@@ -1,14 +1,18 @@
 
 #### Description :memo:
 
-_Please include a summary of the change and link to any relevant GitHub tickets._
+<!-- 
+Please include a summary of the change and link to any relevant GitHub tickets
+-->
 
 Resolve #
 Refer #
 
 #### Type of change :octocat:
 
-_Please delete options that are not relevant_
+<!-- 
+Please mark with X options that are relevant
+-->
 
 - [ ] Bug fix (non-breaking change resolving an issue)
 - [ ] New feature (non-breaking change adding functionality)
@@ -17,14 +21,16 @@ _Please delete options that are not relevant_
 - [ ] Development workflow enhancement
 
 #### How Has This Been Tested? :beetle:
-
-_List unit tests that verify the changes or were added to verify this change_
+<!-- 
+List unit tests that verify the changes or were added to verify this chang_
+-->
 
 - [ ] Test A
 - [ ] Test B
 - [ ] Unit tests run with `clojure -X:test:runner`
 - [x] GitHub Action checkers
 
+<!-- 
 _Where relevant, provide additional instructions required to reproduce test results_
 
 #### Checklist :eyes:
