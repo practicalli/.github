@@ -19,3 +19,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - health: rename to CONTRIBUTING.md standard naming of file
 - health: add link to GitHub health files
 - health: general support approach for practicalli projects
+- health: general security approach for practicalli projects
