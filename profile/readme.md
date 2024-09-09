@@ -8,7 +8,7 @@ Practical guides to programming in Clojure and tools that support an effective C
 
 - [Practicalli Clojure](https://practical.li/clojure) | [Practicalli Clojure Web Services](https://practical.li/clojure-web-services) | [Practicalli ClojureScript](https://practical.li/clojurescript)
 - [Practicalli Neovim](https://practical.li/neovim) | [Practicalli Spacemacs](https://practical.li/spacemacs)  | [Practicalli VSpaceCode](https://practical.li/vspacecode)
-- [Practicalli Project Templates](https://practical.li/project-templates)
+- [Practicalli Project Templates](https://practical.li/clojure/clojure-cli/projects/templates/practicalli/)
 - [Practicalli Engineering Playbook](https://practical.li/engineering-playbook)
 
 [Practicalli YouTube channel](https://youtube.com/practicalli) has over 100 hours of live coding in Clojure to demonstrate how to think in functional programming and apply Clojure to sovling challenges.
