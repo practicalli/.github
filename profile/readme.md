@@ -18,7 +18,7 @@ Practical guides to programming in Clojure and tools that support an effective C
 
 ## Sponsor Practicalli
 
-[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
+[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-johnny/)
 
 The majority of my work is now focused on the [Practicalli series of books and videos](https://practical.li/) and an advisory role with several communities
 
